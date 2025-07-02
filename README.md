@@ -4,5 +4,4 @@ npm run dev
 
 start server
 cd ..server
-node index.js# FitTrack
-# FitTrack
+node index.js
